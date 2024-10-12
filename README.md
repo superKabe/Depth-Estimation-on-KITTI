@@ -3,6 +3,8 @@
 ## Overview
 This repository contains a Python notebook that explores two methods of depth estimation: **Monocular** and **Stereo**. Depth estimation is essential for applications like autonomous driving and robotics, as it calculates the distance of objects from a camera. The project utilizes the **KITTI dataset**, which is widely used for autonomous driving research.
 
+**Note: Downloading this project notebook to view it is preferable, as the GitHub preview will not truncate the long numeric output values.**
+
 ## Dataset
 The project uses the **KITTI dataset**: [KITTI dataset](https://www.cvlibs.net/datasets/kitti/). This dataset provides high-resolution images from stereo cameras and ground truth depth information from a LiDAR sensor.
 
